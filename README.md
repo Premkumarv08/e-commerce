@@ -58,7 +58,13 @@ e-commerce/
     npm run dev
     ```
 
-The server will be running on `http://localhost:5000` (or your configured port), and the client will be on `http://localhost:5173`.
+The server will be running on `https://e-commerce-production-dd7f.up.railway.app/`, and the client will be on `https://e-commerce-seven-cyan-54.vercel.app`.
+
+### Testing
+
+For payment processing, you can use the test card numbers provided by Stripe.
+
+*   **Stripe Test Cards**: https://docs.stripe.com/testing
 
 ## 🤝 Contributing
 
@@ -67,5 +73,3 @@ Contributions, issues, and feature requests are welcome!
 ## 📝 License
 
 This project is licensed under the MIT License.
-
-
